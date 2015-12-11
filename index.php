@@ -19,7 +19,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Hood Buddies</a>
+            <a class="" href="#"><img class="logo-img" src="images/hoodicon.png" style="max-width: 50px; display: block; margin: 10px 0;" alt="Logo"><h4 class="logo-text">HoodBuddies</h4></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
                 <form action="login.php" method="post">
