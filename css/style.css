@@ -1,0 +1,4 @@
+.bg-btn{background-color: #1abc9c; color: #fff;}
+.bg-btn:hover{background-color: #fff;border: 1px solid #1abc9c; color: #1abc9c;}
+.nav-bg{background-color: #34495e}
+#navbar li{margin:15px 10px 0 10px;}
