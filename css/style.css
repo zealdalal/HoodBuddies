@@ -1,6 +1,14 @@
+/* Home Page CSS */
+.navbar{margin-bottom: 0 !important; display: block;}
 .bg-btn{background-color: #1abc9c; color: #fff;}
 .bg-btn:hover{background-color: #fff;border: 1px solid #1abc9c; color: #1abc9c;}
 .nav-bg{background-color: #34495e}
 #navbar li{margin:30px 10px 0 10px;}
-h4.logo-text{color: #1abc9c; font-style: italic; font-weight: bold; float: left; display: block;}
+h4.logo-text{color: #1abc9c; font-style: italic; font-weight: bold; float: left; display: block;font-family: 'Indie Flower', cursive;}
 img.logo-img{margin: 5px auto 0 auto !important; text-align: center; display: block;}
+
+.main-page{background-image: url("../images/main-bg.jpg"); -o-background-image: url("../images/main-bg.jpg"); -webkit-background-image: url("../images/main-bg.jpg"); display: block;
+    }
+.main-page-signup{max-width: 500px; margin: auto; text-align: center; background-color: #34495e; opacity: 0.8; padding: 20px;}
+.main-page-signup label{color: #fff;}
+/* Home Page End */
